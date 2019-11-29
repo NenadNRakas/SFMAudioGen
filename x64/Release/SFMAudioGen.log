@@ -1,0 +1,10 @@
+﻿  sfml.cpp
+C:\Users\NenadNRakas\source\repos\SFMAudioGen\sfml.cpp(27,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NenadNRakas\source\repos\SFMAudioGen\sfml.cpp(32,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\NenadNRakas\source\repos\SFMAudioGen\sfml.cpp(33,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFMAudioGen.vcxproj -> C:\Users\NenadNRakas\source\repos\SFMAudioGen\x64\Release\SFMAudioGen.exe
